@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Antipoff/static/css/main.7ec20fb2.css",
-    "main.js": "/Antipoff/static/js/main.bc8416cd.js",
+    "main.js": "/Antipoff/static/js/main.e7789510.js",
     "static/media/exit.svg": "/Antipoff/static/media/exit.e3febb0a52b2929a9f47445fe0a2301d.svg",
     "static/media/phone.svg": "/Antipoff/static/media/phone.633ddd5e63acb10afcea3c25e162deda.svg",
     "static/media/arrow.svg": "/Antipoff/static/media/arrow.5a125c3696f68cc093f28612f570c963.svg",
@@ -11,10 +11,10 @@
     "static/media/like-active.svg": "/Antipoff/static/media/like-active.11b44be12685415406f5a5aa494eaba8.svg",
     "static/media/like.svg": "/Antipoff/static/media/like.061e171d2a52e699ffb3579ec85fbc42.svg",
     "main.7ec20fb2.css.map": "/Antipoff/static/css/main.7ec20fb2.css.map",
-    "main.bc8416cd.js.map": "/Antipoff/static/js/main.bc8416cd.js.map"
+    "main.e7789510.js.map": "/Antipoff/static/js/main.e7789510.js.map"
   },
   "entrypoints": [
     "static/css/main.7ec20fb2.css",
-    "static/js/main.bc8416cd.js"
+    "static/js/main.e7789510.js"
   ]
 }
