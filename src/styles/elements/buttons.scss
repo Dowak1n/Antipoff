@@ -1,0 +1,43 @@
+.button {
+    font-size: 16px;
+    background: $c-violet;
+    color: $c-white;
+    border: none;
+    border-radius: 8px;
+    padding: 13px 0;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.user-button {
+    color: $c-white;
+    background: rgba(255, 255, 255, 0);
+    padding: 8px 16px;
+    border: 1px solid;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.user-button-icon {
+    display: none;
+    background: rgba(255, 255, 255, 0);
+    padding: 11px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+@media (max-width:$screen-sm) {
+    .user-button {
+        display: none;
+    }
+
+    .user-button-icon {
+        display: block;
+        background: rgba(255, 255, 255, 0);
+        padding: 11px;
+        border: none;
+    }
+}

@@ -1,0 +1,20 @@
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
+
+// settings
+@import "settings/colors";
+@import "settings/variables";
+
+//components
+@import "components/register.scss";
+@import "components/userCard.scss";
+@import "components/usersMenu.scss";
+@import "components/userPage.scss";
+
+
+//elements
+@import "elements/field.scss";
+@import "elements/buttons.scss";
+
+//generic
+@import "generic/base.scss";
